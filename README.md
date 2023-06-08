@@ -18,4 +18,10 @@ on the vm :
 ```python
 #python3 -m http.server 8080
 ```
-#
+create namespace: <br>
+```
+#ip netns add apple_ns
+```
+list of ns (namespace): <br>
+``` # ip netns list ```
+
